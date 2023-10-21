@@ -1,0 +1,18 @@
+{
+  "name": "gallery",
+  "version": "1.0.0",
+  "description": "List images for differnt things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Gallery",
+    "Photo"
+  ],
+  "author": "md.tanvirulisam@outlook.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
